@@ -1,4 +1,4 @@
-var phone_number = '18174647210'
+var phone_number = '请修改为你的手机号码'
 var storage = storages.create("fu486");
 const base_url = 'https://render.alipay.com/p/c/17yq18lq3slc?source='
 
